@@ -4,7 +4,7 @@
            
 A cross-platform Project for web/mobile/desktop made by CyberTech
 
-This is the web project made with Symfony 4.4 version
+This is the Web Version made with Symfony 4.4 version
 
 /*************************************************************************/
 
